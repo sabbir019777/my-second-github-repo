@@ -6,7 +6,7 @@ div{
 
 }
 #two{
-    color: bisque; background-color: chartreuse;text font: size 20px;width: 300px
+    color: bisque; background-color:width: 300px
     ;
 }
 .three{
@@ -19,5 +19,4 @@ div{
     color: aqua;background-color: burlywood;margin: 0%
     ;zoom: inherit;
     font-size: larger; width: 50%;
-
 }
