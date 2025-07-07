@@ -12,3 +12,12 @@ div{
 .three{
     color: beige;box-shadow: 5px tomato;font-size: xx-large; background-color: darkorange; width: 300px;
 }
+.five{
+    color: cornflowerblue; background-color: crimson;font-size: x-large;width: 300px;border: 15px;border-radius: 10px;box-shadow: 10px;
+}
+.six{
+    color: aqua;background-color: burlywood;margin: 0%
+    ;zoom: inherit;
+    font-size: larger; width: 50%;
+
+}
